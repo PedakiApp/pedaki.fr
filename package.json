@@ -17,7 +17,7 @@
     "yarn": "use-pnpm",
     "npm": "use-pnpm"
   },
-  "packageManager": "pnpm@9.0.4",
+  "packageManager": "pnpm@9.4.0",
   "scripts": {
     "start": "dotenv -- turbo run start",
     "format:check": "turbo run format:check",
